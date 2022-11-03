@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "Khóa luận tốt nghiệp của Dương Văn Hiếu",
   text2: "Hướng dẫn: CN Nguyễn Thị Hải Yến",
-  text3: "Làm người yêu tớ nhá ._.",
+  text3: "Làm người yêu tớ nhé ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
   text5: "Cậu mơ à",
   text6: "Yêu ơi là yêu",
